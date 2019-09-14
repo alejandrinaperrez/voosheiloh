@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ufeiyiepa.radiokampoeng.com/sitemap.xml
